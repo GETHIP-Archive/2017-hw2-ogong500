@@ -1,0 +1,10 @@
+{
+    "firstName":"Owen",
+    "lastName":"Gong",
+    "age":16,
+    "picture": "http://ermag.co/wp-content/uploads/2016/02/12802724_10206064517837268_9146821115418452208_n-620x400.jpg",
+    "nickNames": [
+        {"nick": "OG"},
+        {"nick": "Obi Wan"}
+    ]
+}
